@@ -1,0 +1,36 @@
+unit Unit1;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs,
+  FMX.Controls.Presentation, FMX.StdCtrls, FMX.WebBrowser, FMX.Maps;
+
+type
+  TForm1 = class(TForm)
+    MapView1: TMapView;
+    procedure FormActivate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.fmx}
+
+procedure TForm1.FormActivate(Sender: TObject);
+begin
+//  mapview1.Show;
+//  mapview1.Position.X := 55.76;
+//  mapview1.Position.Y := 37.64;
+  //mapview1.Location.Latitude := 55.76;
+  //mapview1.Location.Longitude := 37.64;
+end;
+
+end.

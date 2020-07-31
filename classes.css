@@ -1,0 +1,9 @@
+.class1{
+  width: 80px;
+  height: 32px;
+  Background: #40FF00;
+  border-radius: 10px;
+  font-size: 17px;
+  border-shadow: 5px 5px 5px 0px gray;
+  outline: none;
+}

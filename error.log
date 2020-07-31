@@ -1,0 +1,27 @@
+[04.02.2017 8:53:15] Incorrect id.
+[04.02.2017 8:53:42] Incorrect id.
+[05.02.2017 9:18:15] 'Tag' is not a valid integer value
+[05.02.2017 9:18:40] 'Tag' is not a valid integer value
+[10.02.2017 10:48:49] List index out of bounds (0)
+[10.02.2017 10:52:35] List index out of bounds (0)
+[10.02.2017 18:00:59] Access violation at address 005B90A9 in module 'Studio.exe'. Read of address 00000024
+[11.02.2017 17:38:47] '' is not a valid integer value
+[18.02.2017 15:48:06] Access violation at address 005CD9C7 in module 'Studio.exe'. Read of address 00000000
+[18.02.2017 20:37:47] Access violation at address 005F62C6 in module 'Studio.exe'. Read of address 00000000
+[18.02.2017 20:37:58] Access violation at address 005F62C6 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:11:44] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:11:53] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:12:10] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:12:28] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:13:47] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:14:06] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[19.02.2017 15:14:41] Access violation at address 005A9FD5 in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:45:46] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:46:34] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:47:34] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:48:02] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:48:11] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:48:18] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:49:18] Access violation at address 005A757E in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:49:52] Access violation at address 005A7584 in module 'Studio.exe'. Read of address 00000000
+[20.02.2017 8:50:38] Access violation at address 005A7584 in module 'Studio.exe'. Read of address 00000000[20.02.2017 12:53:07] '40РЉП±' is not a valid integer value[20.02.2017 12:54:15] '40РЉП±' is not a valid integer value[20.02.2017 12:54:35] '40РЉП±' is not a valid integer value[20.02.2017 12:55:09] '40РЉП±' is not a valid integer value[20.02.2017 15:39:57] '40РЉП±' is not a valid integer value[04.03.2017 19:01:23] Cannot open file "C:\users\Лев\documents\projects\Project15.jssprj". Не удается найти указанный файл[04.03.2017 19:02:51] '40РЉП±' is not a valid integer value[20.03.2017 22:00:27] Cannot open file "D:\main\Важное\MyProjects\проекты\Items\AppView\fef". Не удается найти указанный файл

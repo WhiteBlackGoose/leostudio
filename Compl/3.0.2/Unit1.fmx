@@ -1,0 +1,21 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 717
+  Position = Designed
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnActivate = FormActivate
+  DesignerMasterStyle = 0
+  object MapView1: TMapView
+    Align = Client
+    Size.Width = 717.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    Zoom = 5.000000000000000000
+    MapType = Terrain
+  end
+end

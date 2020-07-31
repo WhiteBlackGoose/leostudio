@@ -1,0 +1,196 @@
+Доступные команды
+>Функции
+>>Файлы
+>>>createfile("mainform", getpath("mainform") + "a.txt");
+>>>openfromfile("mainform", getpath("mainform") + "a.txt");
+>>>savetofile("mainform", "Hi!", getpath("mainform") + "a.txt");
+>>>getpath("mainform");
+>>>deletefile("mainform", getpath("mainform") + "a.txt");
+>>>fileexists("mainform", getpath("mainform") + "a.txt");
+>>Окна
+>>>Видимость
+>>>>hideform("mainform");
+>>>>showform("mainform");
+>>>>closeform("mainform");
+>>>>showmodalform("mainform");
+>>>Свойства
+>>>>settransparent("mainform", 100);
+>>>>setcaption("mainform", "caption");
+>>>>setsize("mainform", 100, 100, 600, 500);
+>>>Края
+>>>>seticons("mainform", true, true, false);
+>>>>setborder("mainform", "Single");
+>>>api("mainform.show()");
+>>JS Функции
+>>>Первые функции
+>>>>alert("Hello, world!");
+>>>Диалоги
+>>>>alert("Hello, world!", function(ok){});
+>>>>prompt("Write smt", "John", function(ok){});
+>>>>confirm("Are you a good programmer?");
+>>>Встроенные
+>>>>Функции
+>>>>>Constructor();
+>>>>>toString();
+>>>>>valueOf();
+>>>>>Регулярные выражения
+>>>>>>exec();
+>>>>>>test();
+>>>>>>toSource();
+>>>>>>toString();
+>>>>>Математика
+>>>>>>abs();
+>>>>>>acos();
+>>>>>>asin();
+>>>>>>atan();
+>>>>>>atan2();
+>>>>>>ceil();
+>>>>>>cos();
+>>>>>>exp();
+>>>>>>floor();
+>>>>>>log();
+>>>>>>max();
+>>>>>>min();
+>>>>>>pow();
+>>>>>>random();
+>>>>>>round();
+>>>>>>sin();
+>>>>>>sqrt();
+>>>>>>tan();
+>>>>>>toSource();
+>>>>>Строковые свойства
+>>>>>>anchor();
+>>>>>>big();
+>>>>>>blink();
+>>>>>>bold();
+>>>>>>fixed();
+>>>>>>fontcolor();
+>>>>>>fontsize();
+>>>>>>italics();
+>>>>>>link();
+>>>>>>small();
+>>>>>>strike();
+>>>>>>sub();
+>>>>>>sup();
+>>>>Методы
+>>>>>Дата
+>>>>>>Date();
+>>>>>>getDate();
+>>>>>>getDay();
+>>>>>>getFullYear();
+>>>>>>getHours();
+>>>>>>getMilliseconds();
+>>>>>>getMinutes();
+>>>>>>getMonth();
+>>>>>>getSeconds();
+>>>>>>getTime();
+>>>>>>getTimezoneOffset();
+>>>>>>getUTCDate();
+>>>>>>getUTCDay();
+>>>>>>getUTCFullYear();
+>>>>>>getUTCHours();
+>>>>>>getUTCMilliseconds();
+>>>>>>getUTCMonth();
+>>>>>>getUTCMonth();
+>>>>>>getUTCSeconds();
+>>>>>>getYear();
+>>>>>>setDate();
+>>>>>>setFullYear();
+>>>>>>setHours();
+>>>>>>setMilliseconds();
+>>>>>>setMinutes();
+>>>>>>setMonth();
+>>>>>>setSeconds();
+>>>>>>setTime();
+>>>>>>setUTCDate();
+>>>>>>setUTCFullYear();
+>>>>>>setUTCHours();
+>>>>>>setUTCMilliseconds();
+>>>>>>setUTCMinutes();
+>>>>>>setUTCMonth();
+>>>>>>setUTCSeconds();
+>>>>>>setYear();
+>>>>>>toDateString();
+>>>>>>toGMTString();
+>>>>>>toLocaleDateString();
+>>>>>>toSource();
+>>>>>>toString();
+>>>>>>toTimeString();
+>>>>>>toUTCString();
+>>>>>>valueOf();
+>>>>>Массив
+>>>>>>concat();
+>>>>>>every();
+>>>>>>filter();
+>>>>>>forEach();
+>>>>>>indexOf();
+>>>>>>join();
+>>>>>>lastIndexOf();
+>>>>>>map();
+>>>>>>pop();
+>>>>>>push();
+>>>>>>reduce();
+>>>>>>reduceRight();
+>>>>>>reverse();
+>>>>>>shift();
+>>>>>>slice();
+>>>>>>some();
+>>>>>>toSource();
+>>>>>>unshift();
+>>>>>Строки
+>>>>>>charAt();
+>>>>>>charCodeAt();
+>>>>>>concat();
+>>>>>>indexOf();
+>>>>>>lastIndexOf();
+>>>>>>localCompare();
+>>>>>>length();
+>>>>>>match();
+>>>>>>replace();
+>>>>>>search();
+>>>>>>slice();
+>>>>>>split();
+>>>>>>substr();
+>>>>>>substring();
+>>>>>>toLocaleLowerCase();
+>>>>>>toLocaleUpperCase();
+>>>>>>toLowerCase();
+>>>>>>toUpperCase();
+>>>>>>toString();
+>>>>>>valueOf();
+>>>>>Объекты
+>>>>>>toSource();
+>>>>>>toString();
+>Операторы
+>>Блоки
+>>>Циклы
+>>>>while (True){}
+>>>>for (i = 0; i <= 10; i++){}
+>>>Условия
+>>>>if (True){}
+>>>>if (!False){}
+>>>>if (False || True){}
+>>Слова
+>>>Простые
+>>>>in
+>>>>||
+>>>>&&
+>>>>+
+>>>>-
+>>>>*
+>>>>/
+>>>>%
+>>>>++
+>>>>--
+>>>>^
+>>>>~
+>>>> <<
+>>>> >>
+>>>> >>>
+>>>>+=
+>>>>-=
+>>>>=
+>>>>var
+>>>Функции
+>>>>function (){}
+>>>>function (param1){}

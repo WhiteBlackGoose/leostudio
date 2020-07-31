@@ -1,0 +1,25 @@
+HotKeys
+
+F1                       = Open help window
+Tab                      = Css editor/main editor
+Ctrl + I                 = Tab
+Ctrl + C                 = Copy
+Ctrl + V                 = Paste
+Ctrl + T                 = Choose color
+Ctrl + P                 = Easy pattern structure
+Ctrl + Z                 = Cancel the last symbol
+Ctrl + S                 = Save
+Ctrl + A                 = Select all
+Ctrl + N                 = New file
+Ctrl + X                 = Copy and delete
+Ctrl + L                 = Paste link from...
+Ctrl + H                 = Open hint window
+Ctrl + F2                = Color all selected line
+Ctrl + Shift + C         = Open in Google Chrome
+Ctrl + Shift + F         = Open in Mozilla Firefox
+Ctrl + Shift + I         = Open in IE
+Ctrl + Shift + P         = Back Easy pattern structure
+Ctrl + Shift + M         = Open source master
+PgDn\Pgup                = Select next/prev value in CSS editor
+[Arrow down/up]          = Next/Prev field in css editor
+F9                            = Open in Integrated browser

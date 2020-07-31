@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.767,C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\Compl\3.0.2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\Compl\3.0.2\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\Compl\3.0.2\compiler.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,=C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="CB5A1VPX87"/>
+	</ActiveMobileDevice>  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

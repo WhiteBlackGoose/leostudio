@@ -1,0 +1,755 @@
+[Closed Files]
+File_0=SourceModule,'C:\Borland\Delphi7\Source\RTL\win\windows.pas',0,1,141,14,155,0,0
+File_1=SourceModule,'C:\Borland\Delphi7\Source\VCL\Graphics.pas',0,1,1985,1,1999,0,0
+File_2=SourceModule,'D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SynHighLighterSample.pas',0,1,69,1,79,0,0
+File_3=SourceModule,'D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SynEditHighlighter.pas',0,1,1010,56,1023,0,0
+File_4=SourceModule,'D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3_\LeoStudio_1.3\SRC\Unit1.dfm',0,1,671,57,686,0,0
+File_5=SourceModule,'D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit1.dfm',0,1,1,1,1,0,0
+File_6=SourceModule,'D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\RegExpr.pas',0,1,1,1,1,0,0
+
+[Modules]
+Module0=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Ko.pas
+Module1=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\hlp.pas
+Module2=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\lbc.pas
+Module3=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\InChass.pas
+Module4=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\winc.pas
+Module5=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\hall.pas
+Module6=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\abt.pas
+Module7=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\sr.pas
+Module8=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SHOWA.pas
+Module9=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\st.pas
+Module10=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\ER.pas
+Module11=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit2.pas
+Module12=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Icc.pas
+Module13=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\HW.pas
+Module14=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\smAll.pas
+Module15=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Io.pas
+Module16=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\lD_A.pas
+Module17=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\cslcl.pas
+Module18=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\npr.pas
+Module19=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit1.pas
+Module20=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\JSHELP.pas
+Module21=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\sThirdParty.pas
+Module22=C:\Borland\Delphi7\Source\RTL\sys\sysutils.pas
+Module23=c:\borland\delphi7\Lib\mc_utils.pas
+Module24=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SynHighlighterJScript.pas
+Module25=C:\Borland\Delphi7\Source\VCL\StdCtrls.pas
+Module26=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\synedit.pas
+Module27=C:\Borland\Delphi7\Source\VCL\Controls.pas
+Module28=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\CSSedt.pas
+Module29=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\cls.pas
+Module30=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\Studio.dpr
+Count=31
+EditWindowCount=1
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Ko.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\hlp.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\lbc.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\InChass.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\winc.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\hall.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\abt.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\sr.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SHOWA.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\st.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\ER.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit2.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Icc.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\HW.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\smAll.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Io.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\lD_A.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\cslcl.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\npr.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit1.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\JSHELP.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\sThirdParty.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Borland\Delphi7\Source\RTL\sys\sysutils.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[c:\borland\delphi7\Lib\mc_utils.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SynHighlighterJScript.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Borland\Delphi7\Source\VCL\StdCtrls.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\synedit.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Borland\Delphi7\Source\VCL\Controls.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\CSSedt.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\cls.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\Studio.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Windows\system32\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=31
+CurrentView=15
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+View7=7
+View8=8
+View9=9
+View10=10
+View11=11
+View12=12
+View13=13
+View14=14
+View15=15
+View16=16
+View17=17
+View18=18
+View19=19
+View20=20
+View21=21
+View22=22
+View23=23
+View24=24
+View25=25
+View26=26
+View27=27
+View28=28
+View29=29
+View30=30
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=188
+Top=79
+Width=1091
+Height=738
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1075
+ClientHeight=700
+LeftPanelSize=140
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=0
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=00000400010000000B0000004D6573736167655669657733040000000000000255000000000000000100000000000000000000000001000000002C0400000000000001000000002C0400000000000001000000002C0400000000000001000000002C0400000000000001000000002C0400000000000001000000005A0500000000000001000000005B0500000000000001000000003304000000000000FFFFFFFF
+
+[View0]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\Studio.dpr
+CursorX=5
+CursorY=89
+TopLine=76
+LeftCol=1
+
+[View1]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit2.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Icc.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\cls.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\HW.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View5]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\smAll.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View6]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\InChass.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View7]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\lbc.pas
+CursorX=29
+CursorY=15
+TopLine=4
+LeftCol=1
+
+[View8]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Unit1.pas
+CursorX=41
+CursorY=3374
+TopLine=3363
+LeftCol=1
+
+[View9]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\CSSedt.pas
+CursorX=1
+CursorY=98
+TopLine=81
+LeftCol=1
+
+[View10]
+Module=C:\Borland\Delphi7\Source\VCL\Controls.pas
+CursorX=1
+CursorY=3398
+TopLine=3384
+LeftCol=1
+
+[View11]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\cslcl.pas
+CursorX=39
+CursorY=56
+TopLine=45
+LeftCol=1
+
+[View12]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\winc.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View13]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\hall.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View14]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\hlp.pas
+CursorX=5
+CursorY=82
+TopLine=67
+LeftCol=1
+
+[View15]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Ko.pas
+CursorX=91
+CursorY=97
+TopLine=76
+LeftCol=1
+
+[View16]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\synedit.pas
+CursorX=22
+CursorY=1466
+TopLine=1452
+LeftCol=1
+
+[View17]
+Module=C:\Borland\Delphi7\Source\VCL\StdCtrls.pas
+CursorX=1
+CursorY=314
+TopLine=300
+LeftCol=1
+
+[View18]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SynHighlighterJScript.pas
+CursorX=1
+CursorY=80
+TopLine=66
+LeftCol=1
+
+[View19]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\abt.pas
+CursorX=8
+CursorY=55
+TopLine=2
+LeftCol=1
+
+[View20]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\SHOWA.pas
+CursorX=1
+CursorY=24
+TopLine=25
+LeftCol=1
+
+[View21]
+Module=c:\borland\delphi7\Lib\mc_utils.pas
+CursorX=60
+CursorY=6262
+TopLine=6237
+LeftCol=1
+
+[View22]
+Module=C:\Borland\Delphi7\Source\RTL\sys\sysutils.pas
+CursorX=28
+CursorY=5987
+TopLine=5965
+LeftCol=1
+
+[View23]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\lD_A.pas
+CursorX=1
+CursorY=102
+TopLine=91
+LeftCol=1
+
+[View24]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\npr.pas
+CursorX=40
+CursorY=69
+TopLine=41
+LeftCol=1
+
+[View25]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\sThirdParty.pas
+CursorX=1
+CursorY=363
+TopLine=347
+LeftCol=1
+
+[View26]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\Io.pas
+CursorX=9
+CursorY=15
+TopLine=1
+LeftCol=1
+
+[View27]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\ER.pas
+CursorX=1
+CursorY=32
+TopLine=21
+LeftCol=1
+
+[View28]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\st.pas
+CursorX=6
+CursorY=150
+TopLine=59
+LeftCol=1
+
+[View29]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\JSHELP.pas
+CursorX=1
+CursorY=19
+TopLine=4
+LeftCol=1
+
+[View30]
+Module=D:\main\Важное\MyProjects\проекты\Items\Leonardo Development Kit\LeoStudio_1.3\SRC\sr.pas
+CursorX=4
+CursorY=23
+TopLine=1
+LeftCol=1
+
+[Watches]
+Count=0
+
+[WatchWindow]
+WatchColumnWidth=100
+WatchShowColumnHeaders=1
+Create=1
+Visible=0
+State=0
+Left=1197
+Top=625
+Width=327
+Height=191
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=311
+ClientHeight=157
+TBDockHeight=157
+LRDockWidth=426
+Dockable=1
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1600
+Height=122
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1584
+ClientHeight=84
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=770
+Height=313
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=754
+ClientHeight=279
+TBDockHeight=313
+LRDockWidth=446
+Dockable=1
+
+[Components]
+Left=240
+Top=237
+Width=191
+Height=243
+Create=1
+Visible=0
+State=0
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=175
+ClientHeight=209
+TBDockHeight=243
+LRDockWidth=191
+Dockable=1
+
+[CPUWindow]
+Create=1
+Visible=0
+State=0
+Left=267
+Top=373
+Width=1333
+Height=487
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1317
+ClientHeight=449
+DumpPane=79
+DisassemblyPane=277
+RegisterPane=231
+FlagPane=64
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=124
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=5
+Top=428
+Width=210
+Height=439
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=194
+ClientHeight=405
+TBDockHeight=439
+LRDockWidth=190
+Dockable=1
+SplitPos=113
+ArrangeBy=Name
+SelectedItem=Action
+ExpandedItems=Anchors,AnimatEvents,BorderIcons,DisabledGlyphKind,EditLabel,EditLabel.Font,Font,HorzScrollBar,SkinData,SkinData.OuterEffects,SkinningRules,VertScrollBar
+HiddenCategories=
+
+[BreakpointWindow]
+Create=1
+Visible=0
+State=0
+Left=877
+Top=401
+Width=737
+Height=197
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=721
+ClientHeight=163
+TBDockHeight=197
+LRDockWidth=737
+Dockable=1
+Column0Width=100
+Column1Width=75
+Column2Width=200
+Column3Width=200
+Column4Width=75
+Column5Width=75
+
+[CallStackWindow]
+Create=1
+Visible=1
+State=0
+Left=948
+Top=625
+Width=265
+Height=191
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=249
+ClientHeight=157
+TBDockHeight=157
+LRDockWidth=294
+Dockable=1
+
+[ThreadStatusWindow]
+Create=1
+Visible=0
+State=0
+Left=488
+Top=524
+Width=624
+Height=152
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=608
+ClientHeight=118
+TBDockHeight=152
+LRDockWidth=624
+Dockable=1
+Column0Width=145
+Column1Width=100
+Column2Width=115
+Column3Width=250
+
+[ObjectTree]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=122
+Width=192
+Height=289
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=176
+ClientHeight=255
+TBDockHeight=294
+LRDockWidth=190
+Dockable=1
+
+[fmClipboardHistory]
+Create=1
+Visible=0
+State=0
+Left=517
+Top=209
+Width=566
+Height=482
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=550
+ClientHeight=448
+TBDockHeight=482
+LRDockWidth=566
+Dockable=1
+
+[fmGrepResults]
+Create=1
+Visible=0
+State=0
+Left=522
+Top=138
+Width=556
+Height=583
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=540
+ClientHeight=549
+TBDockHeight=583
+LRDockWidth=556
+Dockable=1
+
+[fmMacroLibrary]
+Create=1
+Visible=0
+State=0
+Left=626
+Top=224
+Width=347
+Height=411
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=331
+ClientHeight=377
+TBDockHeight=411
+LRDockWidth=347
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=12
+Width=140
+Height=688
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=688
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=12
+Top=0
+Width=1063
+Height=85
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1063
+ClientHeight=85
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+

@@ -1,0 +1,196 @@
+Available commands
+>Functions
+>>Files
+>>>createfile("mainform", getpath("mainform") + "a.txt");
+>>>openfromfile("mainform", getpath("mainform") + "a.txt");
+>>>savetofile("mainform", "Hi!", getpath("mainform") + "a.txt");
+>>>getpath("mainform");
+>>>deletefile("mainform", getpath("mainform") + "a.txt");
+>>>fileexists("mainform", getpath("mainform") + "a.txt");
+>>Windows
+>>>Visible
+>>>>hideform("mainform");
+>>>>showform("mainform");
+>>>>closeform("mainform");
+>>>>showmodalform("mainform");
+>>>Properties
+>>>>settransparent("mainform", 100);
+>>>>setcaption("mainform", "caption");
+>>>>setsize("mainform", 100, 100, 600, 500);
+>>>Borders
+>>>>seticons("mainform", true, true, false);
+>>>>setborder("mainform", "Single");
+>>>api("mainform.show()");
+>>JS Functions
+>>>First functions
+>>>>alert("Hello, world!");
+>>>Dialogs
+>>>>alert("Hello, world!", function(ok){});
+>>>>prompt("Write smt", "John", function(ok){});
+>>>>confirm("Are you a good programmer?");
+>>>Built-in
+>>>>Functions
+>>>>>Constructor();
+>>>>>toString();
+>>>>>valueOf();
+>>>>>RegExpr
+>>>>>>exec();
+>>>>>>test();
+>>>>>>toSource();
+>>>>>>toString();
+>>>>>Math
+>>>>>>abs();
+>>>>>>acos();
+>>>>>>asin();
+>>>>>>atan();
+>>>>>>atan2();
+>>>>>>ceil();
+>>>>>>cos();
+>>>>>>exp();
+>>>>>>floor();
+>>>>>>log();
+>>>>>>max();
+>>>>>>min();
+>>>>>>pow();
+>>>>>>random();
+>>>>>>round();
+>>>>>>sin();
+>>>>>>sqrt();
+>>>>>>tan();
+>>>>>>toSource();
+>>>>>String Wrappers
+>>>>>>anchor();
+>>>>>>big();
+>>>>>>blink();
+>>>>>>bold();
+>>>>>>fixed();
+>>>>>>fontcolor();
+>>>>>>fontsize();
+>>>>>>italics();
+>>>>>>link();
+>>>>>>small();
+>>>>>>strike();
+>>>>>>sub();
+>>>>>>sup();
+>>>>Methods
+>>>>>Date
+>>>>>>Date();
+>>>>>>getDate();
+>>>>>>getDay();
+>>>>>>getFullYear();
+>>>>>>getHours();
+>>>>>>getMilliseconds();
+>>>>>>getMinutes();
+>>>>>>getMonth();
+>>>>>>getSeconds();
+>>>>>>getTime();
+>>>>>>getTimezoneOffset();
+>>>>>>getUTCDate();
+>>>>>>getUTCDay();
+>>>>>>getUTCFullYear();
+>>>>>>getUTCHours();
+>>>>>>getUTCMilliseconds();
+>>>>>>getUTCMonth();
+>>>>>>getUTCMonth();
+>>>>>>getUTCSeconds();
+>>>>>>getYear();
+>>>>>>setDate();
+>>>>>>setFullYear();
+>>>>>>setHours();
+>>>>>>setMilliseconds();
+>>>>>>setMinutes();
+>>>>>>setMonth();
+>>>>>>setSeconds();
+>>>>>>setTime();
+>>>>>>setUTCDate();
+>>>>>>setUTCFullYear();
+>>>>>>setUTCHours();
+>>>>>>setUTCMilliseconds();
+>>>>>>setUTCMinutes();
+>>>>>>setUTCMonth();
+>>>>>>setUTCSeconds();
+>>>>>>setYear();
+>>>>>>toDateString();
+>>>>>>toGMTString();
+>>>>>>toLocaleDateString();
+>>>>>>toSource();
+>>>>>>toString();
+>>>>>>toTimeString();
+>>>>>>toUTCString();
+>>>>>>valueOf();
+>>>>>Array
+>>>>>>concat();
+>>>>>>every();
+>>>>>>filter();
+>>>>>>forEach();
+>>>>>>indexOf();
+>>>>>>join();
+>>>>>>lastIndexOf();
+>>>>>>map();
+>>>>>>pop();
+>>>>>>push();
+>>>>>>reduce();
+>>>>>>reduceRight();
+>>>>>>reverse();
+>>>>>>shift();
+>>>>>>slice();
+>>>>>>some();
+>>>>>>toSource();
+>>>>>>unshift();
+>>>>>Strings
+>>>>>>charAt();
+>>>>>>charCodeAt();
+>>>>>>concat();
+>>>>>>indexOf();
+>>>>>>lastIndexOf();
+>>>>>>localCompare();
+>>>>>>length();
+>>>>>>match();
+>>>>>>replace();
+>>>>>>search();
+>>>>>>slice();
+>>>>>>split();
+>>>>>>substr();
+>>>>>>substring();
+>>>>>>toLocaleLowerCase();
+>>>>>>toLocaleUpperCase();
+>>>>>>toLowerCase();
+>>>>>>toUpperCase();
+>>>>>>toString();
+>>>>>>valueOf();
+>>>>>Objects
+>>>>>>toSource();
+>>>>>>toString();
+>Operators
+>>Blocks
+>>>Loops
+>>>>while (True){}
+>>>>for (i = 0; i <= 10; i++){}
+>>>if
+>>>>if (True){}
+>>>>if (!False){}
+>>>>if (False || True){}
+>>Words
+>>>Simple
+>>>>in
+>>>>||
+>>>>&&
+>>>>+
+>>>>-
+>>>>*
+>>>>/
+>>>>%
+>>>>++
+>>>>--
+>>>>^
+>>>>~
+>>>> <<
+>>>> >>
+>>>> >>>
+>>>>+=
+>>>>-=
+>>>>=
+>>>>var
+>>>functions
+>>>>function (){}
+>>>>function (param1){}

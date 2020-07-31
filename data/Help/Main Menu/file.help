@@ -1,0 +1,8 @@
+Main menu is big list of lists of buttons in the top of window.
+
+File - is the main list, here are the main functions, that are in buttons too.
+
+The first 4 buttons use for work with project, like as creating new files, saving, saving as (choose folder), open.
+The next 3 buttons need for work with text, paste color, ready patterns and loading address (chhose file).
+Drop litter clears the address of returns of text (Ctrl + Z), so if you work during a long time, use this button to clear memory.
+The next 3 buttons use for work with this file, e. g. deleting, opening file in explorer or copying file with another name.

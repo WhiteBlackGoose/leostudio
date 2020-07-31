@@ -1,0 +1,36 @@
+object Form23: TForm23
+  Left = 298
+  Top = 239
+  Width = 1088
+  Height = 563
+  Caption = 'Libraries'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  OnActivate = FormActivate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object tv1: TsTreeView
+    Left = 0
+    Top = 0
+    Width = 185
+    Height = 525
+    Align = alLeft
+    Color = clWhite
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlack
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    Indent = 19
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 0
+    OnClick = tv1Click
+  end
+end

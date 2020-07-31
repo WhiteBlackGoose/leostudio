@@ -1,0 +1,7 @@
+Use CSS editor to visual editing of objects.
+
+Put down mouse and move it to option the size (on the left-central panel, left to view). 
+Also you can use a lot of settings in left list of options, css styles. 
+
+The first field is Tag, means that here you should write the name of the tag you want to style. The second is caption, this text will between opening and closing tags. The other are CSS-properties. 
+In the right panel you can find the ready code in one object or in css-class, use buttons for use this code. You can import it, copy, clear etc.
